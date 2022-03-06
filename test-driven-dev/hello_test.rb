@@ -7,7 +7,6 @@ class GreetingsTest < Minitest::Test
  end
 end
 
-
 # minitest/autorun	Provides an easy and explicit way to run all the tests
 # minitest/test	A very fast, simple, and clean test system
 # minitest/spec	A very fast, simple, and clean spec system
